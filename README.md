@@ -1,5 +1,5 @@
 # About Me:
-Eu estou aberto para trabalhos e codificar ideias.<br><br>Procuro colaborar em códigos divertidos e ajudar novatos é a meta.<br><br>Eu estou estudando:<br> - Análise e Desenvolvimento de Sistemas na UNIT - PE, linguagens: HTML + CSS + JS, SQL e Java<br> - Python como um Autodidata.<br><br>Fale comigo sobre: Programação, estudos e TI.<br><br>Sou novato em TI, mas desde muito novo tenho interesse em atuar na área.
+Eu estou aberto para trabalhos e codificar ideias.<br><br>Procuro colaborar em códigos divertidos e ajudar novatos é a meta.<br><br>Eu estou estudando:<br> - Análise e Desenvolvimento de Sistemas na UNIT - PE, linguagens: HTML + CSS + JS, SQL e Java.<br> - Python como um Autodidata.<br><br>Fale comigo sobre: Programação, estudos e TI.<br><br>Sou novato em TI, mas desde muito novo tenho interesse em atuar na área.
 
 
 ## Socials:
