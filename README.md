@@ -1,7 +1,6 @@
 # About Me:
 Eu estou aberto para trabalhos e codificar ideias.<br><br>Procuro colaborar em códigos divertidos e ajudar novatos é a meta.<br><br>Eu estou estudando:<br> - Análise e Desenvolvimento de Sistemas na UNIT - PE, linguagens: HTML + CSS + JS, SQL e Java.<br> - Python como um Autodidata.<br><br>Fale comigo sobre: Programação, estudos e TI.<br><br>Sou novato em TI, mas desde muito novo tenho interesse em atuar na área.
 
-
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/le_luiz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lux-lima) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@luizaugusto7127) 
 
@@ -25,8 +24,7 @@ Eu estou aberto para trabalhos e codificar ideias.<br><br>Procuro colaborar em c
 ### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Louiexz&icon=7&color=8)](https://visitcount.itsvg.in)
+### Visit Count
+[![](https://visitcount.itsvg.in/api?id=Louiexz&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
